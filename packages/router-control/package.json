@@ -42,7 +42,7 @@
     "react-dom": ">=16.8.0"
   },
   "dependencies": {
-    "react-dynamic-loadable": "2.0.5"
+    "react-dynamic-loadable": "3.0.0"
   },
   "devDependencies": {
     "@babel/runtime": "7.12.13",

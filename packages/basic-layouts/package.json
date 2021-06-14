@@ -46,7 +46,7 @@
     "@uiw-admin/document-title": "^4.1.3",
     "@uiw-admin/router-control": "^4.1.4",
     "classnames": "^2.2.6",
-    "react-dynamic-loadable": "2.0.5"
+    "react-dynamic-loadable": "3.0.0"
   },
   "devDependencies": {
     "@babel/runtime": "7.12.13",
